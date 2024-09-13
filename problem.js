@@ -40,7 +40,7 @@
 30. Determine if a given character is a vowel or consonant.
 31. Check if a string is empty.
 32. Check if two strings are equal.
-33. Check if a number is a palindrome.
+33. Check if a number is a palindrome. // that's main the reverse number
 34. Find the smallest of three numbers.
 35. Check if a number is a perfect square.
 36. Find the maximum of three numbers.
@@ -257,5 +257,5 @@
 
 ---
 
-Working through these problems will help you get comfortable with core JavaScript concepts like functions, arrays, loops, conditions, strings, and DOM manipulation. Let me know if you need any help with specific problems!
+Working through these problems will help you get comfortable with core JavaScript concepts like functions, arrays, loops, conditions, strings, and DOM manipulation.
  */
