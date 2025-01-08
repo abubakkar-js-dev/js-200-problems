@@ -1,4 +1,4 @@
-function vowelCounter(str){
+    function vowelCounter(str){
     const vowels = ['a','e','i','o','u'];
     let count = 0;
     str = str.toLowerCase().split('');
@@ -11,3 +11,13 @@ function vowelCounter(str){
 }
 
 console.log(vowelCounter('Amar Sonar Bangla'));
+
+
+// solve the problem in another way
+
+const vowelCounter2 = (str)=>{
+    return str.toLowerCase().split("").filter(char=>['a','e','i','o','u'].includes(char)).length;
+}
+
+// test program
+console.log(vowelCounter2('Amar Sonar Bangla'));

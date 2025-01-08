@@ -4,87 +4,87 @@
 ---
 
 ### **Basic Syntax & Operations**
-1. Add two numbers.
-2. Subtract two numbers.
-3. Multiply two numbers.
-4. Divide two numbers.
-5. Find the remainder of two numbers.
-6. Convert Celsius to Fahrenheit.
-7. Find the average of three numbers.
-8. Swap two numbers without using a third variable.
-9. Check if a number is positive or negative.
-10. Check if a number is divisible by 5.
-11. Convert hours to minutes.
-12. Convert minutes to seconds.
-13. Convert a string to uppercase.
-14. Convert a string to lowercase.
-15. Find the length of a string.
-16. Concatenate two strings.
-17. Extract a substring from a string.
-18. Replace a character in a string.
-19. Reverse a string.
-20. Count the number of vowels in a string.
+1. Add two numbers.✅
+2. Subtract two numbers.✅
+3. Multiply two numbers.✅
+4. Divide two numbers.✅
+5. Find the remainder of two numbers.✅
+6. Convert Celsius to Fahrenheit.✅
+7. Find the average of three numbers.✅
+8. Swap two numbers without using a third variable.✅
+    9. Check if a number is positive or negative.✅
+10. Check if a number is divisible by 5.✅
+11. Convert hours to minutes.✅
+12. Convert minutes to seconds.✅
+13. Convert a string to uppercase.✅
+14. Convert a string to lowercase.✅
+15. Find the length of a string.✅
+16. Concatenate two strings.✅
+17. Extract a substring from a string.✅
+18. Replace a character in a string.✅
+19. Reverse a string.✅
+20. Count the number of vowels in a string.✅
 
 ---
 
 ### **Conditions**
-21. Check if a number is even or odd.
-22. Find the largest of two numbers.
-23. Find the largest of three numbers.
-24. Check if a number is a multiple of another number.
-25. Check if a year is a leap year.
-26. Check if a number is a prime number.
-27. Check if a number is divisible by 3 and 7.
-28. Check if a number is in the range of 1 to 100.
-29. Determine the grade from a score (A, B, C, etc.).
-30. Determine if a given character is a vowel or consonant.
-31. Check if a string is empty.
-32. Check if two strings are equal.
+21. Check if a number is even or odd.✅
+22. Find the largest of two numbers.✅
+23. Find the largest of three numbers.✅
+24. Check if a number is a multiple of another number.✅
+25. Check if a year is a leap year.✅
+26. Check if a number is a prime number.✅
+27. Check if a number is divisible by 3 and 7.✅
+28. Check if a number is in the range of 1 to 100.✅
+29. Determine the grade from a score (A, B, C, etc.).✅
+30. Determine if a given character is a vowel or consonant.✅
+31. Check if a string is empty.✅
+32. Check if two strings are equal.✅
 33. Check if a number is a palindrome. // that's main the reverse number
-34. Find the smallest of three numbers.
-35. Check if a number is a perfect square.
-36. Find the maximum of three numbers.
-37. Determine if a number is between two given numbers.
-38. Determine if a string contains a specific word.
-39. Compare the length of two strings.
-40. Check if a number is positive or zero.
+34. Find the smallest of three numbers.✅
+35. Check if a number is a perfect square.✅
+36. Find the maximum of three numbers.✅
+37. Determine if a number is between two given numbers.✅
+38. Determine if a string contains a specific word.✅
+39. Compare the length of two strings.✅
+40. Check if a number is positive or zero.✅
 
 ---
 
 ### **Loops**
-41. Print numbers from 1 to 100.
-42. Print numbers from 100 to 1.
-43. Print all even numbers from 1 to 50.
-44. Print all odd numbers from 1 to 50.
-45. Print multiplication table for a given number.
-46. Print the factorial of a number.
-47. Sum all numbers from 1 to 100.
-48. Print the Fibonacci series up to a certain number.
-49. Print the reverse of a number.
-50. Find the sum of digits of a number.
-51. Check if a number is an Armstrong number.
-52. Find the GCD (Greatest Common Divisor) of two numbers.
-53. Find the LCM (Least Common Multiple) of two numbers.
-54. Check if a number is prime using a loop.
-55. Print the first `n` prime numbers.
-56. Print the first `n` Fibonacci numbers.
-57. Print a pyramid pattern using asterisks.
-58. Print a right-angled triangle pattern.
-59. Print a hollow square pattern.
-60. Print an inverted right-angled triangle pattern.
+41. Print numbers from 1 to 100.✅
+42. Print numbers from 100 to 1.✅
+43. Print all even numbers from 1 to 50.✅
+44. Print all odd numbers from 1 to 50.✅
+45. Print multiplication table for a given number.✅
+46. Print the factorial of a number.✅
+47. Sum all numbers from 1 to 100.✅
+48. Print the Fibonacci series up to a certain number.✅
+49. Print the reverse of a number.✅
+50. Find the sum of digits of a number.✅
+51. Check if a number is an Armstrong number.✅
+52. Find the GCD (Greatest Common Divisor) of two numbers.✅
+53. Find the LCM (Least Common Multiple) of two numbers.✅
+54. Check if a number is prime using a loop.✅
+55. Print the first `n` prime numbers.✅
+56. Print the first `n` Fibonacci numbers.✅
+57. Print a pyramid pattern using asterisks.✅
+58. Print a right-angled triangle pattern.✅
+59. Print a hollow square pattern.✅
+60. Print an inverted right-angled triangle pattern.✅
 
 ---
 
 ### **Functions**
-61. Write a function to add two numbers.
-62. Write a function to subtract two numbers.
-63. Write a function to check if a number is even or odd.
+61. Write a function to add two numbers.✅
+62. Write a function to subtract two numbers.✅
+63. Write a function to check if a number is even or odd.✅
 64. Write a function to check if a string is a palindrome.
-65. Write a function to find the factorial of a number.
-66. Write a function to reverse a string.
-67. Write a function to find the maximum of two numbers.
-68. Write a function to check if a number is prime.
-69. Write a function to convert Celsius to Fahrenheit.
+65. Write a function to find the factorial of a number.✅
+66. Write a function to reverse a string.✅
+67. Write a function to find the maximum of two numbers.✅
+68. Write a function to check if a number is prime.✅
+69. Write a function to convert Celsius to Fahrenheit.✅
 70. Write a function to check if a year is a leap year.
 71. Write a function to check if a string contains only alphabets.
 72. Write a function to capitalize the first letter of each word in a string.
