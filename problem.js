@@ -4,26 +4,26 @@
 ---
 
 ### **Basic Syntax & Operations**
-1. Add two numbers.✅
-2. Subtract two numbers.✅
-3. Multiply two numbers.✅
-4. Divide two numbers.✅
-5. Find the remainder of two numbers.✅
-6. Convert Celsius to Fahrenheit.✅
-7. Find the average of three numbers.✅
-8. Swap two numbers without using a third variable.✅
-    9. Check if a number is positive or negative.✅
-10. Check if a number is divisible by 5.✅
-11. Convert hours to minutes.✅
-12. Convert minutes to seconds.✅
-13. Convert a string to uppercase.✅
-14. Convert a string to lowercase.✅
-15. Find the length of a string.✅
-16. Concatenate two strings.✅
-17. Extract a substring from a string.✅
-18. Replace a character in a string.✅
-19. Reverse a string.✅
-20. Count the number of vowels in a string.✅
+1. Add two numbers.✅✅
+2. Subtract two numbers.✅✅
+3. Multiply two numbers.✅✅
+4. Divide two numbers.✅✅
+5. Find the remainder of two numbers.✅✅
+6. Convert Celsius to Fahrenheit.✅✅
+7. Find the average of three numbers.✅✅
+8. Swap two numbers without using a third variable.✅✅
+9. Check if a number is positive or negative.✅✅
+10. Check if a number is divisible by 5.✅✅
+11. Convert hours to minutes.✅✅
+12. Convert minutes to seconds.✅✅
+13. Convert a string to uppercase.✅✅
+14. Convert a string to lowercase.✅✅
+15. Find the length of a string.✅✅
+16. Concatenate two strings.✅✅
+17. Extract a substring from a string.✅✅
+18. Replace a character in a string.✅✅
+19. Reverse a string.✅✅
+20. Count the number of vowels in a string.✅✅
 
 ---
 
@@ -85,8 +85,8 @@
 67. Write a function to find the maximum of two numbers.✅
 68. Write a function to check if a number is prime.✅
 69. Write a function to convert Celsius to Fahrenheit.✅
-70. Write a function to check if a year is a leap year.
-71. Write a function to check if a string contains only alphabets.
+70. Write a function to check if a year is a leap year.✅
+71. Write a function to check if a string contains only alphabets. ✅
 72. Write a function to capitalize the first letter of each word in a string.
 73. Write a function to count the number of vowels in a string.
 74. Write a function to find the sum of an array.
