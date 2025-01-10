@@ -87,8 +87,8 @@
 69. Write a function to convert Celsius to Fahrenheit.✅
 70. Write a function to check if a year is a leap year.✅
 71. Write a function to check if a string contains only alphabets. ✅
-72. Write a function to capitalize the first letter of each word in a string.
-73. Write a function to count the number of vowels in a string.
+72. Write a function to capitalize the first letter of each word in a string.✅
+73. Write a function to count the number of vowels in a string.✅
 74. Write a function to find the sum of an array.
 75. Write a function to find the average of an array.
 76. Write a function to find the minimum value in an array.
